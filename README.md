@@ -8,11 +8,25 @@ My Last Match (MLM) is a 3D game powered by Unreal Engine 5, developed by the Al
 - **Graphics**: The game will initially launch with free assets from unreal Engine and later incorporate custom graphics.
 - **Game World**: Events happen in the 90s, with realistic elements like the degradation of gasoline, making only diesel vehicles usable.
 
-## Safehouses
+## Map
+The map in MLM is a crucial element that defines the game environment and world dynamics. The combination of diverse locations, strategic challenges, and opportunities for player interaction makes the map a central element that influences the entire game. Here are some key details and features related to the map in the game:
+
+### Map Structure and Design
+- **Variety of Locations**: The map features diverse types of locations, such as city center, suburbs, parks and fileds, few villages, forests, mountains, and other natural environments. Each location has its unique characteristics and challenges that players must overcome.
+- **Post-Apocalyptic Setting**: The map is designed to reflect a post-apocalyptic world where survivors must fight for resources and safety against zombies and other players.
+- **Safehouses**: The map includes safehouses that serve as refuges for players. These can be upgraded and used for trading and storing items.
+### Game Mechanics Related to the Map
+- **Caravan Management**: Caravans move between safehouses, transporting goods. Players can either protect these caravans or attack them, adding a strategic element to the game.
+- **Route Protection**: Players who own safehouses must ensure the protection of routes between them to maintain their trade routes safe and attractive to other players.
+- **Dangerous Areas**: Some areas on the map are particularly dangerous and require players to adopt a tower-defense style of play to protect their territories from zombie and enemy attacks.
+### Map Dynamics
+- **Constantly Changing World**: The game world is dynamic, and events can change based on players' actions. This means that each player can influence the overall state of the world through their decisions.
+- **Player Interactions**: The map supports interactions between players, whether it’s trading, forming alliances, or engaging in PvP battles.
+
+## [Safehouses](Safehouses.md)
 - Safehouses act as trading hubs and need protection to maintain their status.
 - Top-tier items in the game will include safehouses.
 - Players owning safehouses need to keep roads protected from raiders to ensure the safe transport of goods.
-- [Safehouses](Safehouses.md)
  
 ## Crafting
 The game features an extensive crafting system with various recipes provided by the community, suggestions:
@@ -31,12 +45,28 @@ The game features an extensive crafting system with various recipes provided by 
 ## NPCs
 - **Kid Characters**: The game includes kid characters that can be killed and eaten, adding a controversial but unique element to the survival aspect.
 - **AI**: While NPCs are present, AI isn't heavily relied upon for these characters.
-- [Mares](Mares.md)
-- [Dementals](Dementals.md)
+
+## [Mares](Mares.md)
+## [Dementals](Dementals.md)
 
 ## Vehicles
 - Vehicles play a crucial role in the game, especially diesel-powered ones, as gasoline has degraded.
 - Transport and vehicle interaction mechanics are being actively developed and tested.
+
+## Money
+### In-Game Banknotes
+In MLM, in-game banknotes represent the primary currency used within the game environment. Players use these banknotes to:
+
+- **Trade and Purchase Items**: Banknotes can be used to buy essential supplies, equipment, and other items needed for survival within the game.
+- **Crafting and Upgrades**: Players may need banknotes to craft new items or upgrade existing ones, enhancing their gameplay experience and improving their chances of survival.
+- **Participate in the In-Game Economy**: Banknotes facilitate transactions between players, allowing for a dynamic and player-driven economy. This helps simulate a real-world economic system within the game, adding depth and realism to the gameplay.
+### Qubic (QU)
+Qubic (QU) serves as the overarching monetary platform for Paracosm, which integrates with MLM. It operates as both a currency and a means of facilitating economic activities within the game. Here's how Qubic functions in MLM:
+
+- **Conversion and Exchange**: In-game banknotes can be converted 1:1 to Qubic. This allows players to seamlessly transition between the in-game economy and the broader Paracosm economic ecosystem.
+- **Monetization**: Players can earn Qubic through various in-game activities, such as looting valuable items, crafting high-demand goods, or participating in strategic gameplay elements. This play-to-earn model incentivizes players to engage deeply with the game.
+- **Trading and Selling**: Qubic enables players to trade and sell in-game items both within MLM and potentially across other games or platforms within the Paracosm universe. This adds a layer of real-world value to the time and effort players invest in the game.
+- **Burn Mechanism**: Shareholders in MLM have the power to vote on how much Qubic should be burned during in-game item purchases. This burning mechanism helps regulate the supply of Qubic, maintaining its value and ensuring economic stability within the game.
 
 ## Game Development and Testing
 - The development team consists of 2 developers for the prototype coding, 3 for game design, and uses standard graphics from Unreal Engine 5.
